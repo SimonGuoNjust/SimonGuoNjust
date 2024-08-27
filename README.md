@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github.com/SimonGuoNjust/SimonGuoNjust/blob/master/imgs/view.jpg)
+
+![](https://github.com/SimonGuoNjust/SimonGuoNjust/blob/main/imgs/view.jpg)
 
 🤖 About Me
 
@@ -29,4 +30,4 @@ A graduate student of Control Theory and Control Engineering at Nanjing Universi
 💻 Project
 
 - 🤖 机器人视觉检测及监控软件 [robot](https://github.com/SimonGuoNjust/robot)
-- 💻 c++协程库 glibco [robot](https://github.com/SimonGuoNjust/glibco)
+- 💻 c++协程库 [glibco](https://github.com/SimonGuoNjust/glibco)
