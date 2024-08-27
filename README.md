@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/SimonGuoNjust/SimonGuoNjust/blob/main/imgs/view.jpg" width="640" height="360" hspace="200">
+<div align="center"> <img src="https://github.com/SimonGuoNjust/SimonGuoNjust/blob/main/imgs/view.jpg" width="640" height="360"/> </div>
+
 <!-- ![]() -->
 
 🤖 About Me
