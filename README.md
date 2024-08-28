@@ -30,5 +30,5 @@ A graduate student of Control Theory and Control Engineering at Nanjing Universi
 
 💻 Project
 
-- 🤖 机器人视觉检测及监控软件 [robot](https://github.com/SimonGuoNjust/robot)
+- 🤖 机器人视觉检测及监控软件 [robotJetsonDevice](https://github.com/SimonGuoNjust/robotJetsonDevice) & [robotSupervision](https://github.com/SimonGuoNjust/robotSupervision) 
 - 💻 c++协程库 [glibco](https://github.com/SimonGuoNjust/glibco)
